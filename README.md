@@ -64,7 +64,9 @@ The dataset includes information related to electric vehicles such as:
 - Demonstrates strong data analysis and visualization skills  
 - Useful for applications in automotive analytics and sustainability  
 
----
+## Project Structure
+- Readme.md
+- Electric_Vehicles.ipynb 
 
 ## 🔮 Future Enhancements
 - Build predictive models to forecast EV adoption  
