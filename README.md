@@ -62,7 +62,7 @@ The dataset includes information related to electric vehicles such as:
 ## 🚀 Impact
 - Provides actionable insights into the EV market using real-world data  
 - Demonstrates strong data analysis and visualization skills  
-- Useful for applications in automotive analytics and sustainability  
+- Useful for applications in automotive analytics & sustainability  
 
 ## Project Structure
 - Readme.md
