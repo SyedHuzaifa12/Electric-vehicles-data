@@ -1,6 +1,6 @@
 # ⚡ Electric Vehicles (EV) Data Analysis
 
-## 📌 Project Overview 
+## 📌 Project Overview  
 This project focuses on analyzing Electric Vehicle (EV) data to uncover trends in adoption, performance, and market growth. The goal is to derive data-driven insights that highlight how EVs are evolving across manufacturers, vehicle types, and regions, supporting sustainable transportation decisions.
 
 ---
