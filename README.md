@@ -8,7 +8,7 @@ This project focuses on analyzing Electric Vehicle (EV) data to uncover trends i
 ## 🎯 Objectives
 - Analyze year-wise EV adoption trends  
 - Compare EV manufacturers and vehicle models  
-- Study key factors such as electric range and battery capacity  
+- Study key factors such as electric range and battery capacity   
 - Identify patterns influencing EV market growth  
 
 ---
